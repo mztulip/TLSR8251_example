@@ -10,4 +10,7 @@ Tested with:
 GNU Make 4.4.1
 Python 3.13.1
 
+Hardware LilyGO/T-ZigBee board
+https://github.com/Xinyuan-LilyGO/T-ZigBee
+
 Programmer description: https://github.com/pvvx/TlsrComSwireWriter
